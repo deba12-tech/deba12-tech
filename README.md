@@ -1,4 +1,26 @@
+# 💫 Hi 👋, I'm Debangan Roy
 
+<h3 align="center">🚀 B.Tech CSE Student | Full Stack Developer | AI Enthusiast | Building Real-World Products from India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deba12-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🚀 **Currently Building:** AI-powered applications and scalable full-stack web products.
+- 🌱 **Currently Exploring:** AI Agents, Next.js, TypeScript, Cloud Computing, and System Design.
+- 💡 **Passionate About:** Artificial Intelligence, Web Development, Automation, and Startups.
+- 🤝 **Open To:** Internships, Freelance Projects, Open Source Contributions, and Hackathons.
+- 🎯 **2026 Goals:** Build impactful products, contribute to open source, and grow as a software engineer.
+- 💬 **Ask Me About:** Python, JavaScript, React, Next.js, AI, Git, UI/UX, and Product Development.
+- 📚 **Learning Philosophy:** Build → Break → Learn → Improve.
+- 🎥 **Beyond Coding:** Photography, Cinematography, Video Editing, Graphic Design, and Tech Content Creation.
+- ⚡ **Fun Fact:** I love turning ideas into real-world products faster than I can explain them.
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nah.itz_krish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debangan-roy-0228b1366/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roydebangan724@gmail.com) 
 
